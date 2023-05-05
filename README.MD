@@ -9,5 +9,4 @@
 
 ## ***Destek ve İletişim***
     Aşağıdaki bağlantıları kullanarak bana ulaşabilirsiniz.
-- **[Discord Sunucum](https://discord.gg/lexas)**
-- **[Discord Profilim](https://discord.com/users/1063178935338278932)**
+- **[Discord Profilim](https://discord.com/users/1067917947118559253)**

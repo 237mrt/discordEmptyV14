@@ -1,0 +1,21 @@
+{
+  "name": "v14empty",
+  "version": "1.0.0",
+  "description": "Discord.js v14 empty bot template",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "237mrt",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/builders": "^1.6.3",
+    "@discordjs/rest": "^1.7.1",
+    "chalk": "^5.2.0",
+    "discord-api-types": "^0.37.41",
+    "discord.js": "^14.10.2",
+    "fs": "^0.0.1-security"
+  }
+}
